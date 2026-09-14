@@ -1,0 +1,20 @@
+{
+  "brand": "Te Equipamos",
+  "items": [
+    {
+      "active": true,
+      "type": "sale",
+      "sections": ["Ventas", "Novedades"],
+      "title": "25 litros y cuatro bolsillos: un bolso pensado para acompañarte en más de un escenario",
+      "summary": "Move 500 de 25 L para trabajo, gimnasio y uso diario, disponible en varios acabados.",
+      "details": "Landing de venta con galería, ficha técnica y consulta comercial.",
+      "url": "https://jorgesport.github.io/move-500/",
+      "image": "https://jorgesport.github.io/move-500/images/move-500-salvia.jpg",
+      "time": "Producto · 25 L",
+      "score": 91,
+      "featured": false,
+      "direct": true,
+      "tags": ["bolso", "25 litros", "día a día"]
+    }
+  ]
+}
