@@ -1,10 +1,13 @@
 {
   "brand": "Te Equipamos",
+  "schema_version": 2,
   "items": [
     {
       "active": true,
       "type": "sale",
       "sections": ["Ventas", "Novedades"],
+      "activities": ["travel", "fitness"],
+      "product_type": "bolso",
       "title": "25 litros y cuatro bolsillos: un bolso pensado para acompañarte en más de un escenario",
       "summary": "Move 500 de 25 L para trabajo, gimnasio y uso diario, disponible en varios acabados.",
       "details": "Landing de venta con galería, ficha técnica y consulta comercial.",
