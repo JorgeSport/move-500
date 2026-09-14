@@ -78,4 +78,12 @@
   }));
   gallery(); tick(); setInterval(tick, 1000);
   document.addEventListener('visibilitychange', tick);
+
+  const relatedCss = document.createElement('link');
+  relatedCss.rel = 'stylesheet';
+  relatedCss.href = 'https://jorgesport.github.io/te-equipamos-arpenaz-27l/related-content.css';
+  document.head.appendChild(relatedCss);
+  const relatedScript = document.createElement('script');
+  relatedScript.src = 'https://jorgesport.github.io/te-equipamos-arpenaz-27l/related-content.js';
+  document.body.appendChild(relatedScript);
 })();
